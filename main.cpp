@@ -1,5 +1,5 @@
 /****************************************************************************
-** Main file 'maingame.cpp'
+** Main file 'main.cpp'
 **
 ** Created by: David Morra 2/5/2025
 **
