@@ -12,7 +12,7 @@
 
 class MineDistance {
 public:
-    MineDistance();  // Constructor declaration
+    MineDistance();
     void reset();
     int getPos(int y, int x);
     void printBoard();
