@@ -8,16 +8,16 @@ To build and run the Minesweeper game on a linux system that can use qmake build
 ### Prerequisites
 - Use a linux system
 - Have CMake and QMake installed on your system
+- If using a server, besure to use Xquartz and enable X11, to forward the graphics to your machine.
 
 ### To Build
 - Might be able to run ./My Project right away because I have already included necessary build files.
-- Otherwise, run:
+- Otherwise, to re-build the project, run:
 ```
 qmake6 asign1.pro
 make
 ```
-This will re-build the project
-To run the program:
+- To run the program:
 ```
 ./MyProject
 ```
