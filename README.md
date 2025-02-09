@@ -1,5 +1,5 @@
 # Minesweeper
-##Description
+## Description
 This is a simple implementation of the classic Minesweeper game. The goal is to uncover all the tiles on the grid without hitting a mine. The game provides a grid where each cell can either be a mine or a number that represents the count of neighboring mines. Uncover all 381 safe cells to win the game, but be careful not to hit a mine!
 
 ## How to Build and Run
