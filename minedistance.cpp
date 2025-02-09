@@ -1,5 +1,10 @@
-//David Morra 2/5/2025
-//This file will generate the board and keep track of board data
+/****************************************************************************
+** Main file 'minedistance.cpp'
+**
+** Created by: David Morra 2/5/2025
+**
+** This file will generate the board and keep track of board data
+*****************************************************************************/
 #include "minedistance.h"
 
 //constructer that will generate a board
