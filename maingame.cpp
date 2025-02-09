@@ -1,5 +1,11 @@
-//David Morra 2/5/2025
-//file will hold main game operations and graphics
+/****************************************************************************
+** Main file 'maingame.cpp'
+**
+** Created by: David Morra 2/5/2025
+**
+** File will hold main game operations and graphics
+*****************************************************************************/
+
 #include "maingame.h"
 
 //constructor that will create the main screen window
