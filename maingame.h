@@ -1,3 +1,6 @@
+//David Morra 2/5/2025
+//headerfile for maingame.c
+
 #ifndef MAINGAME_H
 #define MAINGAME_H
 
