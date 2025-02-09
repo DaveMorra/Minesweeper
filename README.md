@@ -6,12 +6,12 @@ This is a simple implementation of the classic Minesweeper game. The goal is to 
 To build and run the Minesweeper game on a linux system that can use qmake build system, follow these steps:
 
 ### Prerequisites
--Use a linux system
--Have CMake and QMake installed on your system
+- Use a linux system
+- Have CMake and QMake installed on your system
 
 ### To Build
--Might be able to run ./My Project right away because I have already included necessary build files.
--Otherwise, run:
+- Might be able to run ./My Project right away because I have already included necessary build files.
+- Otherwise, run:
 ```
 qmake6 asign1.pro
 make
