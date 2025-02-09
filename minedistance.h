@@ -1,5 +1,8 @@
-//David Morra 2/5/2025
-//headerfile for minedistance.c
+/****************************************************************************
+** headerfile for 'minedistance.c'
+**
+** Created by: David Morra 2/5/2025
+*****************************************************************************/
 
 #ifndef MINEDISTANCE_H
 #define MINEDISTANCE_H
