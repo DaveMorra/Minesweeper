@@ -1,3 +1,6 @@
+//David Morra 2/5/2025
+//headerfile for minedistance.c
+
 #ifndef MINEDISTANCE_H
 #define MINEDISTANCE_H
 #include <cstdlib>
