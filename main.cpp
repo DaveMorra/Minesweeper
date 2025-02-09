@@ -1,5 +1,11 @@
-//David Morra 2/5/2025
-//main function that creates main game
+/****************************************************************************
+** Main file 'maingame.cpp'
+**
+** Created by: David Morra 2/5/2025
+**
+** Main function that creates main window and calls to start the game
+*****************************************************************************/
+
 #include "main.h"
 
 //run main game when launched
