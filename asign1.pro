@@ -1,7 +1,7 @@
 # Qt Modules
 QT += core gui widgets
 
-# Project Name (Executable name)
+# Project Name
 TARGET = MyProject
 TEMPLATE = app
 
