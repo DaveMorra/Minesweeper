@@ -1,5 +1,8 @@
-//David Morra 2/5/2025
-//headerfile for maingame.c
+/****************************************************************************
+** headerfile for 'maingame.c'
+**
+** Created by: David Morra 2/5/2025
+*****************************************************************************/
 
 #ifndef MAINGAME_H
 #define MAINGAME_H
